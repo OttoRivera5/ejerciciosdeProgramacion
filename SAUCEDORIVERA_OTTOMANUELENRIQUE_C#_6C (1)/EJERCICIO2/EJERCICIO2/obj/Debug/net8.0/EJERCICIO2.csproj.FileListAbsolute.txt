@@ -1,0 +1,14 @@
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.AssemblyInfoInputs.cache
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.AssemblyInfo.cs
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.csproj.CoreCompileInputs.cache
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\bin\Debug\net8.0\EJERCICIO2.exe
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\bin\Debug\net8.0\EJERCICIO2.deps.json
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\bin\Debug\net8.0\EJERCICIO2.runtimeconfig.json
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\bin\Debug\net8.0\EJERCICIO2.dll
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\bin\Debug\net8.0\EJERCICIO2.pdb
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.dll
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\refint\EJERCICIO2.dll
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.pdb
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\EJERCICIO2.genruntimeconfig.cache
+C:\Users\asczi\source\repos\EJERCICIO2\EJERCICIO2\obj\Debug\net8.0\ref\EJERCICIO2.dll

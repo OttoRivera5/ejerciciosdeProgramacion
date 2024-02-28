@@ -1,0 +1,14 @@
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\bin\Debug\net8.0\EJERCICIO1.exe
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\bin\Debug\net8.0\EJERCICIO1.deps.json
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\bin\Debug\net8.0\EJERCICIO1.runtimeconfig.json
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\bin\Debug\net8.0\EJERCICIO1.dll
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\bin\Debug\net8.0\EJERCICIO1.pdb
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.AssemblyInfoInputs.cache
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.AssemblyInfo.cs
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.csproj.CoreCompileInputs.cache
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.dll
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\refint\EJERCICIO1.dll
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.pdb
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\EJERCICIO1.genruntimeconfig.cache
+C:\Users\asczi\source\repos\EJERCICIO1\EJERCICIO1\obj\Debug\net8.0\ref\EJERCICIO1.dll
