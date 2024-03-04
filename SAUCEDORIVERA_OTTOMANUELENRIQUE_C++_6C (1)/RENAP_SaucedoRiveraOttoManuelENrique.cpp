@@ -11,24 +11,24 @@ void buscarPersona(const vector<string>& nombres, const vector<string>& vecindad
     	
   
     	
-        cout << "\nPersona encontrada en la posición " << posicion << ":" << endl;
+        cout << "\nPersona encontrada en la posiciÃ³n " << posicion << ":" << endl;
         cout << "Nombre: " << nombres[posicion - 1] << endl;
         cout << "Vecindad: " << vecindades[posicion - 1] << endl;
         cout << "Fecha de nacimiento: " << dias[posicion - 1] << "/" << meses[posicion - 1] << "/" << anos[posicion - 1] << endl;
 
-        // Calcular si es mayor de edad (18 años o más)
+        
         int edad = 2024 - anos[posicion - 1];
         if (meses[posicion - 1] > 2 || (meses[posicion - 1] == 2 && dias[posicion - 1] > 16)) {
             edad--;
         }
-        cout << "Edad: " << edad << " años" << endl;
+        cout << "Edad: " << edad << " aÃ±os" << endl;
         if (edad >= 18) {
             cout << "Es mayor de edad" << endl;
         } else {
             cout << "Es menor de edad" << endl;
         }
     } else {
-        cout << "No hay ninguna persona en la posición " << posicion << endl;
+        cout << "No hay ninguna persona en la posiciÃ³n " << posicion << endl;
     }
 }
 
@@ -67,19 +67,19 @@ int main() {
     }
 
 
-    cout << "\nDatos ingresados y cálculo de mayoría de edad:" << endl;
+    cout << "\nDatos ingresados y cÃ¡lculo de mayorÃ­a de edad:" << endl;
     for (int i = 0; i < cantidadPersonas; ++i) {
         cout << "\nPersona " << i + 1 << ":" << endl;
         cout << "Nombre: " << nombres[i] << endl;
         cout << "Vecindad: " << vecindades[i] << endl;
         cout << "Fecha de nacimiento: " << dias[i] << "/" << meses[i] << "/" << anos[i] << endl;
 
-        // Calcular si es mayor de edad (18 años o más)
+        
         int edad = 2024 - anos[i];
         if (meses[i] > 2 || (meses[i] == 2 && dias[i] > 16)) {
             edad--;
         }
-        cout << "Edad: " << edad << " años" << endl;
+        cout << "Edad: " << edad << " aÃ±os" << endl;
         if (edad >= 18) {
             cout << "Es mayor de edad" << endl;
         } else {
@@ -89,12 +89,12 @@ int main() {
 
  
     char opcion;
-    cout << "\n¿Desea buscar a una persona por su posición en la fila? (s/n): ";
+    cout << "\nÂ¿Desea buscar a una persona por su posiciÃ³n en la fila? (s/n): ";
     cin >> opcion;
 
     if (opcion == 's' || opcion == 'S') {
         int posicionBusqueda;
-        cout << "Ingrese la posición de la persona que desea buscar: ";
+        cout << "Ingrese la posiciÃ³n de la persona que desea buscar: ";
         cin >> posicionBusqueda;
         buscarPersona(nombres, vecindades, dias, meses, anos, posicionBusqueda);
     } else {
