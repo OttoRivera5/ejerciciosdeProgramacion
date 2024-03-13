@@ -1,4 +1,3 @@
 # ejerciciosdeProgramacion
-
-nombre???
+Saucedo Rivera Otto Manuel Enrique
 mis ejercicios
